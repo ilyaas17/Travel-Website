@@ -1,5 +1,9 @@
-# Getting Started with Create React App
+# Travel-Website
 
+## Developer's Note
+My first ever react Project. I created this project with the help of Texh2 etc. . It is still incomplete. 
+
+## Bootstrap Source
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Travel-Website
+
